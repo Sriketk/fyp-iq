@@ -1,0 +1,10 @@
+.references
+node_modules
+dist
+.output
+.vinxi
+.turbo
+.DS_Store
+*.log
+.env
+.env.local
