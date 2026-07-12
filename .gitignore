@@ -4,6 +4,7 @@ dist
 .output
 .vinxi
 .turbo
+.wxt
 .DS_Store
 *.log
 .env
